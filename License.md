@@ -1,6 +1,6 @@
 My1's Open Source License
 
-(c) 2013-2016 My1 ( github.com/My1 )
+(c) 2013-2016 My1 ( https://github.com/My1 )
 
 This licensed is supposed to be based of the AGPL, LGPL and a bit of MIT/Apache.
 
