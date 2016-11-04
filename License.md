@@ -28,6 +28,8 @@ so in short you can  use, copy, modify, merge, publish, distribute, sublicense, 
   * All Files pertaining to this project modified, or not on whatever medium, shall stay under 
     this License and are unaffected by the License of any Derivative works, 
     UNLESS you have an explicit written consent from me.
+  * Therefore all source code distributed of this Project or any derivative works upon This Project
+    have to include This License file.
 * This License does not grant permission to use the trade
       names, trademarks, service marks, or product names of the Licensor,
       except as required for reasonable and customary use in describing the
