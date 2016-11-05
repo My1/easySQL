@@ -7,7 +7,9 @@ This licensed is supposed to be based of the AGPL, LGPL and a bit of MIT/Apache.
 Definitions:
 
 "I", "me" and so on defines the Licensor, the holder of the Copyright etc. to this Project.
+
 "You" defines any Licensee who is willing to use this Project
+
 "This Project" defines the target of the License, in other words source code written by me under this License.
 
 so in short you can  use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of this project, BUT:
