@@ -1,22 +1,23 @@
 My1's Open Source License
 
-(c) 2013-2016 My1 ( https://github.com/My1 )
+© 2013-2016 My1 ( https://github.com/My1 )
 
 This licensed is supposed to be a nice little mix of the AGPL, LGPL and a bit of MIT/Apache.
 
-#### Long Story short, anyone can do whatever they want as long as they also make the source including modifications available and don't make me responsible for anything. Usage of trademarks is not allowed, but patents are (as long as this Project doesnt get patent-sued from the respective person).
+#### Long Story short, anyone can do whatever they want as long as they also make the source including modifications available UNDER THIS LICENSE and don't make me responsible for anything. Usage of trademarks is not allowed, but patents are (as long as this Project doesnt get patent-sued from the respective person).
 --
 
 Now Let's go into the details:
 
 Definitions:
 
-* "I", "me" and so on defines the Licensor, the holder of the Copyright etc. to this Project.
-* "You" defines any Licensee who is willing to use this Project
-* "This Project" defines the target of the License, in other words source code written by me under this License.
-* "Derivative works" defines anything that incorperates this Project, be it modified or not.
+* **"I"**, "me" and so on defines the **Licensor**, the **holder of the Copyright** etc. to this Project.
+* **"You"** defines any **Licensee** who is willing to use this Project
+* **"This Project"** defines the **target of the License**, in other words **source code** written by me **under this License**.
+* **Modifications** define any changes to any files partaining to this Project.
+* **"Derivative works"** defines anything that **incorperates this Project**, be it modified or not.
 
-you can  use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of this project, BUT:
+you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of this project, BUT:
 
 * You Have to make the **source code** of this project **available to everyone 
     who has access** to it or any derivative works (no matter in what form or medium, or with/without modifications)
@@ -34,14 +35,17 @@ you can  use, copy, modify, merge, publish, distribute, sublicense, and/or sell 
   * **All Files pertaining to this project**, modified or not, on whatever medium, shall **stay under 
     this License** and are **unaffected by the License of any other works**, 
     **UNLESS** there is an **explicit written permission** from me.
+  * The exact **terms of this License** can be **changed only by me** (or the law).
   * Therefore **all source code** distributed of this Project or any derivative works upon This Project
     **have to include This License file including the Copyright notice**, located at the top of this License.
+  * Direct **Modifications** to this Project shall be released under none other than **this License**.
+    * It is **recommended** to **share any Modifications** with me (to make this Project even better), but **not required**
 * This License does **not grant permission to use the trade names**,
      trademarks, service marks, or product names of the Licensor,
      **except as required** for **reasonable** and customary use in **describing the
      origin** of the Parts pertaining to this Project.
-* **Subject to the terms and conditions of
-     this License**, each Contributor hereby **grants to You** a perpetual,
+* **Subject to the terms and conditions of this License**, 
+     each Contributor hereby **grants to You** a perpetual,
      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
      (except as stated in this section) **patent license** to make, have made,
      use, offer to sell, sell, import, and otherwise transfer the Project,
