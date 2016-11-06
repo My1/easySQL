@@ -2,7 +2,7 @@ My1's Open Source License
 
 © 2013-2016 My1 ( https://github.com/My1 )
 
-This licensed is supposed to be a nice little mix of the AGPL, LGPL and a bit of MIT, Apache and BSD.
+This Lincense is supposed to be a nice little mix of the AGPL, LGPL and a bit of MIT, Apache and BSD.
 
 #### Long Story short, anyone can do whatever they want as long as they also make the source including modifications available UNDER THIS LICENSE and don't make me responsible for anything. Usage of trademarks is not allowed, but patents are (as long as this Project doesnt get patent-sued from the respective person).
 --
