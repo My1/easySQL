@@ -113,7 +113,7 @@ if( !class_exists("esql") ) {
     
     //mysql(i)_info parser for update
     public static function updinfo($link,$data='') {
-      $list=mysqli_info (self::$db["dates"]);
+      $list=mysqli_info (self::$db[$link]);
       $list=str_replace('Rows matched','match',$list);
       preg_match_all ('/(\S[^:]+): (\d+)/', $list, $matches);
       $info = array_combine ($matches[1], $matches[2]);
