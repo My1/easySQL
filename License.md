@@ -1,4 +1,4 @@
-My1's Open Source License
+My1's Open Source License (My1-OSL)
 
 © 2013-2016 My1 ( https://github.com/My1 )
 
